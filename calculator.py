@@ -1,5 +1,5 @@
 # Belajar membuat kalkulator sederhana
-# Dengan Paradikma OOP pada Python
+# Dengan konsep Object Orinted Programming Dalam Bahasa Python
 
 class Kalkulator:
     hasil = 0
